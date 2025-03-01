@@ -14,7 +14,7 @@
 ✅ **Real-time Analysis** - Quick and accurate pest detection with instant analysis results.  
 
 ## 🏗️ Tech Stack  
-- **Backend:** Python (Flask)  
+- **Backend:** Python 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Machine Learning:** TensorFlow/Keras, OpenCV  
 - **Database:** SQLite (if applicable)  
@@ -49,7 +49,7 @@ Then, open http://127.0.0.1:5000/ in your browser.
  
 
 **📂 automated-pest-detection** <br>
- ┣ 📜 app.py          # Main Flask app <br>
+ ┣ 📜 app.py          # Main  <br>
  ┣ 📜 requirements.txt # Dependencies <br>
  ┣ 📂 static          # CSS, images, JS files <br>
  ┣ 📂 templates       # HTML files <br>
